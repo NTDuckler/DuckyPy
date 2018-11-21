@@ -9,187 +9,187 @@ class DuckyPy:
         l = list(arg)
         for x in range(0, len(l)):
             if l[x] == "A":
-                writeLetterU(Keycode.A)
+                self.writeLetterU(self.Keycode.A)
             if l[x] == "B":
-                writeLetterU(Keycode.B)
+                self.writeLetterU(self.Keycode.B)
             if l[x] == "C":
-                writeLetterU(Keycode.C)
+                self.writeLetterU(self.Keycode.C)
             if l[x] == "D":
-                writeLetterU(Keycode.D)
+                self.writeLetterU(self.Keycode.D)
             if l[x] == "E":
-                writeLetterU(Keycode.E)
+                self.writeLetterU(self.Keycode.E)
             if l[x] == "F":
-                writeLetterU(Keycode.F)        
+                self.writeLetterU(self.Keycode.F)        
             if l[x] == "G":
-                writeLetterU(Keycode.G)
+                self.writeLetterU(self.Keycode.G)
             if l[x] == "H":
-                writeLetterU(Keycode.H)
+                self.writeLetterU(self.Keycode.H)
             if l[x] == "I":
-                writeLetterU(Keycode.I)            
+                self.writeLetterU(self.Keycode.I)            
             if l[x] == "J":
-                writeLetterU(Keycode.J)            
+                self.writeLetterU(self.Keycode.J)            
             if l[x] == "K":
-                writeLetterU(Keycode.K)            
+                self.writeLetterU(self.Keycode.K)            
             if l[x] == "L":
-                writeLetterU(Keycode.L)
+                self.writeLetterU(self.Keycode.L)
             if l[x] == "M":
-                writeLetterU(Keycode.M)
+                self.writeLetterU(self.Keycode.M)
             if l[x] == "N":
-                writeLetterU(Keycode.N)
+                self.writeLetterU(self.Keycode.N)
             if l[x] == "O":
-                writeLetterU(Keycode.O)
+                self.writeLetterU(self.Keycode.O)
             if l[x] == "P":
-                writeLetterU(Keycode.P)
+                self.writeLetterU(self.Keycode.P)
             if l[x] == "Q":
-                writeLetterU(Keycode.Q)
+                self.writeLetterU(self.Keycode.Q)
             if l[x] == "R":
-                writeLetter(Keycode.R)
+                self.writeLetterU(self.Keycode.R)
             if l[x] == "S":
-                writeLetterU(Keycode.S)
+                self.writeLetterU(self.Keycode.S)
             if l[x] == "T":
-                writeLetterU(Keycode.T)
+                self.writeLetterU(self.Keycode.T)
             if l[x] == "U":
-                writeLetterU(Keycode.U)
+                self.writeLetterU(self.Keycode.U)
             if l[x] == "V":
-                writeLetterU(Keycode.V)
+                self.writeLetterU(self.Keycode.V)
             if l[x] == "W":
-                writeLetterU(Keycode.W)
+                self.writeLetterU(self.Keycode.W)
             if l[x] == "X":
-                writeLetterU(Keycode.X)
+                self.writeLetterU(self.Keycode.X)
             if l[x] == "Y":
-                writeLetterU(Keycode.Z)
+                self.writeLetterU(self.Keycode.Z)
             if l[x] == "Z":
-                writeLetterU(Keycode.Y)
+                self.writeLetterU(self.Keycode.Y)
             if l[x] == "a":
-                writeLetter(Keycode.A)
+                self.writeLetter(self.Keycode.A)
             if l[x] == "b":
-                writeLetter(Keycode.B)
+                self.writeLetter(self.Keycode.B)
             if l[x] == "c":
-                writeLetter(Keycode.C)
+                self.writeLetter(self.Keycode.C)
             if l[x] == "d":
-                writeLetter(Keycode.D)
+                self.writeLetter(self.Keycode.D)
             if l[x] == "e":
-                writeLetter(Keycode.E)
+                self.writeLetter(self.Keycode.E)
             if l[x] == "f":
-                writeLetter(Keycode.F)        
+                self.writeLetter(self.Keycode.F)        
             if l[x] == "g":
-                writeLetter(Keycode.G)
+                self.writeLetter(self.Keycode.G)
             if l[x] == "h":
-                writeLetter(Keycode.H)
+                self.writeLetter(self.Keycode.H)
             if l[x] == "i":
-                writeLetter(Keycode.I)            
+                self.writeLetter(self.Keycode.I)            
             if l[x] == "j":
-                writeLetter(Keycode.J)            
+                self.writeLetter(self.Keycode.J)            
             if l[x] == "k":
-                writeLetter(Keycode.K)            
+                self.writeLetter(self.Keycode.K)            
             if l[x] == "l":
-                writeLetter(Keycode.L)
+                self.writeLetter(self.Keycode.L)
             if l[x] == "m":
-                writeLetter(Keycode.M)
+                self.writeLetter(self.Keycode.M)
             if l[x] == "n":
-                writeLetter(Keycode.N)
+                self.writeLetter(self.Keycode.N)
             if l[x] == "o":
-                writeLetter(Keycode.O)
+                self.writeLetter(self.Keycode.O)
             if l[x] == "p":
-                writeLetter(Keycode.P)
+                self.writeLetter(self.Keycode.P)
             if l[x] == "q":
-                writeLetter(Keycode.Q)
+                self.writeLetter(self.Keycode.Q)
             if l[x] == "r":
-                writeLetter(Keycode.R)
+                self.writeLetter(self.Keycode.R)
             if l[x] == "s":
-                writeLetter(Keycode.S)
+                self.writeLetter(self.Keycode.S)
             if l[x] == "t":
-                writeLetter(Keycode.T)
+                self.writeLetter(self.Keycode.T)
             if l[x] == "u":
-                writeLetter(Keycode.U)
+                self.writeLetter(self.Keycode.U)
             if l[x] == "v":
-                writeLetter(Keycode.V)
+                self.writeLetter(self.Keycode.V)
             if l[x] == "w":
-                writeLetter(Keycode.w)
+                self.writeLetter(self.Keycode.w)
             if l[x] == "x":
-                writeLetter(Keycode.X)
+                self.writeLetter(self.Keycode.X)
             if l[x] == "y":
-                writeLetter(Keycode.Z)
+                self.writeLetter(self.Keycode.Z)
             if l[x] == "z":
-                writeLetter(Keycode.Y)
+                self.writeLetter(self.Keycode.Y)
             if l[x] == " ":
-                writeLetter(Keycode.SPACE)
+                self.writeLetter(self.Keycode.SPACE)
             if l[x] == ".":
-                writeLetter(Keycode.PERIOD)
+                self.writeLetter(self.Keycode.PERIOD)
             if l[x] == ":":
-                writeLetterU(Keycode.PERIOD)
+                self.writeLetterU(self.Keycode.PERIOD)
             if l[x] == ";":
-                writeLetterU(Keycode.COMMA)
+                self.writeLetterU(self.Keycode.COMMA)
             if l[x] == ",":
-                writeLetter(Keycode.COMMA)
+                self.writeLetter(self.Keycode.COMMA)
             if l[x] == "/":
-                writeLetterU(Keycode.SEVEN) 
+                self.writeLetterU(self.Keycode.SEVEN) 
             if l[x] == "?":
-                writeLetterU(Keycode.MINUS) 
+                self.writeLetterU(self.Keycode.MINUS) 
             if l[x] == "-":
-                writeLetter(Keycode.FORWARD_SLASH)
+                self.writeLetter(self.Keycode.FORWARD_SLASH)
             if l[x] == "_":
-                writeLetterU(Keycode.FORWARD_SLASH)
+                self.writeLetterU(self.Keycode.FORWARD_SLASH)
             if l[x] == "(":
-                writeLetterU(Keycode.EIGHT)
+                self.writeLetterU(self.Keycode.EIGHT)
             if l[x] == ")":
-                writeLetterU(Keycode.NINE)
+                self.writeLetterU(self.Keycode.NINE)
             if l[x] == "=":
-                writeLetterU(Keycode.ZERO)  
+                self.writeLetterU(self.Keycode.ZERO)  
             if l[x] == "[":
-                writeLetter(Keycode.RIGHT_ALT, Keycode.EIGHT)
+                self.writeLetter(self.Keycode.RIGHT_ALT, self.Keycode.EIGHT)
             if l[x] == "]":
-                writeLetter(Keycode.RIGHT_ALT, Keycode.NINE)
+                self.writeLetter(self.Keycode.RIGHT_ALT, self.Keycode.NINE)
             if l[x] == "1":
-                writeLetter(Keycode.ONE)
+                self.writeLetter(self.Keycode.ONE)
             if l[x] == "2":
-                writeLetter(Keycode.TWO)
+                self.writeLetter(self.Keycode.TWO)
             if l[x] == "3":
-                writeLetter(Keycode.THREE)
+                self.writeLetter(self.Keycode.THREE)
             if l[x] == "4":
-                writeLetter(Keycode.FOUR)
+                self.writeLetter(self.Keycode.FOUR)
             if l[x] == "5":
-                writeLetter(Keycode.FIVE)
+                self.writeLetter(self.Keycode.FIVE)
             if l[x] == "6":
-                writeLetter(Keycode.SIX)
+                self.writeLetter(self.Keycode.SIX)
             if l[x] == "7":
-                writeLetter(Keycode.SEVEN)
+                self.writeLetter(self.Keycode.SEVEN)
             if l[x] == "8":
-                writeLetter(Keycode.EIGHT)
+                self.writeLetter(self.Keycode.EIGHT)
             if l[x] == "9":
-                writeLetter(Keycode.NINE)
+                self.writeLetter(self.Keycode.NINE)
             if l[x] == "0":
-                writeLetter(Keycode.ZERO)
+                self.writeLetter(self.Keycode.ZERO)
 
     def writeLetter(self, arg):
-        kbd.send(arg)
+        self.kbd.send(arg)
 
     def writeLetterU(self, arg):
-        kbd.send(Keycode.SHIFT, arg)
+        self.kbd.send(self.Keycode.SHIFT, arg)
 
     def desktop(self):
-        kbd.send(Keycode.GUI, Keycode.D)
+        self.kbd.send(self.Keycode.GUI, Keycode.D)
 
     def closeApp(self):
-        kbd.send(Keycode.ALT, Keycode.F4)
+        self.kbd.send(self.Keycode.ALT, Keycode.F4)
 
     def windows(self):
-        kbd.send(Keycode.GUI)
+        self.kbd.send(self.Keycode.GUI)
 
     def winR(self):
-        kbd.send(Keycode.GUI, Keycode.R)
+        self.kbd.send(self.Keycode.GUI, Keycode.R)
 
     def escape(self):
-        kbd.send(Keycode.ESCAPE)
+        self.kbd.send(self.Keycode.ESCAPE)
 
     def enter(self):
-        kbd.send(Keycode.ENTER)
+        self.kbd.send(self.Keycode.ENTER)
 
     def ctrl(self):
-        kbd.send(Keycode.CONTROL)
+        self.kbd.send(self.Keycode.CONTROL)
 
     def ctrlI(self, arg):
-        kbd.send(Keycode.CONTROL, arg)
+        self.kbd.send(self.Keycode.CONTROL, arg)
 
     def menu(self):
-        kbd.send(Keycode.SHIFT, Keycode.F10)
+        self.kbd.send(self.Keycode.SHIFT, self.Keycode.F10)
